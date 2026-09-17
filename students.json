@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Chirag",
+        "roll_number": 101,
+        "marks": {
+            "PYTHON": 90,
+            "SQL": 96,
+            "STATISTICS": 91
+        }
+    },
+    {
+        "name": "Rahul",
+        "roll_number": 102,
+        "marks": {
+            "PYTHON": 75,
+            "SQL": 82,
+            "STATISTICS": 80
+        }
+    },
+    {
+        "name": "cristiano",
+        "roll_number": 1077,
+        "marks": {
+            "PYTHON": 77,
+            "SQL": 77,
+            "STATISTICS": 77
+        }
+    }
+]
